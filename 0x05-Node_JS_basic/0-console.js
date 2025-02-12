@@ -5,7 +5,6 @@
  */
 // The arrow function
 const displayMessage = (message) => console.log(message);
-
 /**
  * exporting The displayMessage function
  * @module displayMessage
@@ -13,3 +12,4 @@ const displayMessage = (message) => console.log(message);
  */
 // The default module exportting 
 module.exports = displayMessage;
+
